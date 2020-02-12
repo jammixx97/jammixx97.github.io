@@ -1,0 +1,72 @@
+.img-round{
+	border-radius: 50%;
+	width:250px;
+	height:250px;
+
+}
+
+.bg-secondary-2{
+	background-color:#ebebeb;
+}
+
+.navbar-brand{
+	font-size:40px;
+}
+
+.logo{
+	background-image:url(../img/default.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position:50% 50%;
+	height: 100vh;
+}
+
+.pt-8{
+	padding-top:8em;
+}
+body {
+	font-family: 'proxima-nova', sans-serif;
+}
+
+.img-box{
+	width:100%;
+
+}
+.pr-8{
+	padding-right: 8em;
+}
+
+.pr-10{
+	padding-right: 10em;
+}
+
+.pr-12{
+	padding-right: 12em;
+}
+.pl-20{
+	padding-left:15em;
+}
+.pt-7{
+	padding-top:7em;
+}
+
+.vanlogo{
+	height:7%;
+	width:7%;
+}
+.jamlogo{
+	height:7%;
+	width:7%;
+}
+
+.wowlogo{
+	background-image:url(../img/wowlogo.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:50% 50%;
+	height: 100vh;
+}
+
+.p56 {
+	padding: 180px 56px !important;
+}
